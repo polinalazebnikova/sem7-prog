@@ -5,11 +5,11 @@
 
 [Лабораторная работа 3](https://colab.research.google.com/drive/1fn-7JC3FIg3XgDeF0p74tt3s6tfu4RIH?usp=sharing)
 
-[Лабораторная работа 4]()
+[Лабораторная работа 4](https://github.com/polinalazebnikova/myportfolio-lr4-prog)
 
-[Лабораторная работа 5]()
+[Лабораторная работа 5](https://colab.research.google.com/drive/18ThRZopBQ31hCrOi-3CCfi6gR9swvkMb?usp=sharing)
 
-[Лабораторная работа 6]()
+[Лабораторная работа 6](https://colab.research.google.com/drive/1yOgODuUqUwtszAK7DvGjv_UabNJtj1Or?usp=sharing)
 
 [Лабораторная работа 7](https://github.com/polinalazebnikova/prog7-django-lr)
 
