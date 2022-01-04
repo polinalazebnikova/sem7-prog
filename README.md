@@ -14,3 +14,5 @@
 [Лабораторная работа 7](https://github.com/polinalazebnikova/prog7-django-lr)
 
 [Лабораторная работа 8]()
+
+[ВСР 1](https://github.com/polinalazebnikova/sem7-prog/blob/master/%D0%92%D0%A1%D0%A0%201.2%20%D0%90%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20Python.pdf)
