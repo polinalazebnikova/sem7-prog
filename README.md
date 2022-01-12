@@ -13,8 +13,4 @@
 
 [Лабораторная работа 6](https://colab.research.google.com/drive/1yOgODuUqUwtszAK7DvGjv_UabNJtj1Or?usp=sharing)
 
-[Лабораторная работа 7](https://github.com/polinalazebnikova/prog7-django-lr)
-
-[Лабораторная работа 8](https://github.com/polinalazebnikova/sem7-prog-lr8/tree/master)
-
 [Лабораторная работа 7-8](https://github.com/polinalazebnikova/prog7-lr8/)
